@@ -1,0 +1,16 @@
+category_id,category_code,category_name,parent_category
+1,MUS,Music Concert,Entertainment
+2,SPT,Sports,Sports
+3,COM,Comedy,Entertainment
+4,EXP,Exhibition,Business
+5,THE,Theatre,Entertainment
+6,FES,Festival,Culture
+7,CON,Conference,Business
+8,FOD,Food Festival,Lifestyle
+9,EDU,Education,Learning
+10,TEC,Technology,Business
+11,ART,Art & Culture,Culture
+12,FAS,Fashion,Lifestyle
+13,FAM,Family Event,Entertainment
+14,BUS,Business Networking,Business
+15,FIL,Film Screening,Entertainment
