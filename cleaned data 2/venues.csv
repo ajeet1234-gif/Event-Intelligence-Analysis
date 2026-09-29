@@ -1,0 +1,501 @@
+venue_id,venue_code,venue_name,city,state,venue_type,capacity,indoor_outdoor,metro_distance_km,parking_capacity
+200001,VEN-200001,Chandigarh Arena 200001,Chandigarh,Chandigarh,Club,42444.5,Indoor,21.1,6289.5
+200002,VEN-200002,Pune Arena 200002,Pune,Maharashtra,Auditorium,36112.0,Outdoor,11.8,10369.0
+200003,VEN-200003,Jaipur Arena 200003,Jaipur,Rajasthan,Stadium,42444.5,Outdoor,11.4,6289.5
+200004,VEN-200004,Bhopal Arena 200004,Bhopal,Madhya Pradesh,Open Ground,75143.0,Indoor,12.6,2825.0
+200005,VEN-200005,Hyderabad Arena 200005,Hyderabad,Telangana,Theatre,73107.0,Outdoor,11.8,11557.0
+200006,VEN-200006,Delhi Arena 200006,Delhi,Delhi,Theatre,42444.5,Indoor,23.2,6289.5
+200007,VEN-200007,Indore Arena 200007,Indore,Madhya Pradesh,Club,42444.5,Outdoor,24.5,487.0
+200008,VEN-200008,Ahmedabad Arena 200008,Ahmedabad,Gujarat,Auditorium,44233.0,Outdoor,12.2,8525.0
+200009,VEN-200009,Indore Arena 200009,Indore,Madhya Pradesh,Club,42444.5,Outdoor,16.6,6289.5
+200010,VEN-200010,Gaya Arena 200010,Gaya,Bihar,Stadium,38810.0,Outdoor,15.7,6289.5
+200011,VEN-200011,Ranchi Arena 200011,Ranchi,Jharkhand,Stadium,42444.5,Outdoor,22.8,6289.5
+200012,VEN-200012,Chennai Arena 200012,Chennai,Tamil Nadu,Auditorium,42444.5,Indoor,22.3,6289.5
+200013,VEN-200013,Kolkata Arena 200013,Kolkata,West Bengal,Open Ground,42444.5,Indoor,3.7,604.0
+200014,VEN-200014,Ranchi Arena 200014,Ranchi,Jharkhand,Theatre,60922.0,Indoor,14.3,7461.0
+200015,VEN-200015,Ahmedabad Arena 200015,Ahmedabad,Gujarat,Theatre,77660.0,Outdoor,4.1,6289.5
+200016,VEN-200016,Mumbai Arena 200016,Mumbai,Maharashtra,Auditorium,42444.5,Indoor,11.1,11921.0
+200017,VEN-200017,Bhopal Arena 200017,Bhopal,Madhya Pradesh,Convention Center,42444.5,Outdoor,22.7,6289.5
+200018,VEN-200018,Gaya Arena 200018,Gaya,Bihar,Convention Center,1710.0,Indoor,6.8,6289.5
+200019,VEN-200019,Mumbai Arena 200019,Mumbai,Maharashtra,Club,78571.0,Indoor,15.0,6584.0
+200020,VEN-200020,Patna Arena 200020,Patna,Bihar,Convention Center,62613.0,Indoor,0.3,6289.5
+200021,VEN-200021,Ahmedabad Arena 200021,Ahmedabad,Gujarat,Open Ground,42543.0,Outdoor,0.6,9013.0
+200022,VEN-200022,Gaya Arena 200022,Gaya,Bihar,Stadium,42444.5,Indoor,4.9,7741.0
+200023,VEN-200023,Ahmedabad Arena 200023,Ahmedabad,Gujarat,Theatre,18813.0,Outdoor,10.4,6289.5
+200024,VEN-200024,Ranchi Arena 200024,Ranchi,Jharkhand,Convention Center,42444.5,Outdoor,15.9,3872.0
+200025,VEN-200025,Patna Arena 200025,Patna,Bihar,Theatre,42444.5,Indoor,6.7,6289.5
+200026,VEN-200026,Noida Arena 200026,Noida,Uttar Pradesh,Stadium,42444.5,Indoor,22.5,6289.5
+200027,VEN-200027,Bengaluru Arena 200027,Bengaluru,Karnataka,Theatre,7012.0,Indoor,15.3,6289.5
+200028,VEN-200028,Lucknow Arena 200028,Lucknow,Uttar Pradesh,Stadium,42444.5,Indoor,21.2,8550.0
+200029,VEN-200029,Lucknow Arena 200029,Lucknow,Uttar Pradesh,Theatre,42444.5,Outdoor,19.5,6289.5
+200030,VEN-200030,Bhopal Arena 200030,Bhopal,Madhya Pradesh,Stadium,7145.0,Indoor,4.2,6289.5
+200031,VEN-200031,Jaipur Arena 200031,Jaipur,Rajasthan,Theatre,42444.5,Outdoor,21.8,3723.0
+200032,VEN-200032,Chandigarh Arena 200032,Chandigarh,Chandigarh,Convention Center,42444.5,Indoor,11.2,6289.5
+200033,VEN-200033,Noida Arena 200033,Noida,Uttar Pradesh,Auditorium,52892.0,Indoor,15.9,6289.5
+200034,VEN-200034,Gaya Arena 200034,Gaya,Bihar,Auditorium,42444.5,Indoor,8.4,4079.0
+200035,VEN-200035,Mumbai Arena 200035,Mumbai,Maharashtra,Convention Center,42444.5,Indoor,24.0,7800.0
+200036,VEN-200036,Mumbai Arena 200036,Mumbai,Maharashtra,Stadium,25532.0,Indoor,23.9,6289.5
+200037,VEN-200037,Jaipur Arena 200037,Jaipur,Rajasthan,Club,57639.0,Indoor,17.6,9400.0
+200038,VEN-200038,Gurugram Arena 200038,Gurugram,Haryana,Open Ground,65674.0,Indoor,11.3,6289.5
+200039,VEN-200039,Bhopal Arena 200039,Bhopal,Madhya Pradesh,Stadium,42444.5,Indoor,20.3,641.0
+200040,VEN-200040,Ranchi Arena 200040,Ranchi,Jharkhand,Open Ground,42444.5,Indoor,11.9,4375.0
+200041,VEN-200041,Ahmedabad Arena 200041,Ahmedabad,Gujarat,Theatre,42444.5,Indoor,16.5,4695.0
+200042,VEN-200042,Gaya Arena 200042,Gaya,Bihar,Club,41847.0,Indoor,16.1,6289.5
+200043,VEN-200043,Pune Arena 200043,Pune,Maharashtra,Auditorium,42444.5,Outdoor,1.0,192.0
+200044,VEN-200044,Noida Arena 200044,Noida,Uttar Pradesh,Theatre,45555.0,Indoor,14.9,6289.5
+200045,VEN-200045,Chandigarh Arena 200045,Chandigarh,Chandigarh,Open Ground,64811.0,Outdoor,19.7,6289.5
+200046,VEN-200046,Hyderabad Arena 200046,Hyderabad,Telangana,Stadium,13769.0,Outdoor,16.2,6289.5
+200047,VEN-200047,Ahmedabad Arena 200047,Ahmedabad,Gujarat,Open Ground,47696.0,Outdoor,15.9,610.0
+200048,VEN-200048,Chennai Arena 200048,Chennai,Tamil Nadu,Stadium,42444.5,Outdoor,11.7,11422.0
+200049,VEN-200049,Pune Arena 200049,Pune,Maharashtra,Auditorium,42444.5,Outdoor,16.4,6289.5
+200050,VEN-200050,Chandigarh Arena 200050,Chandigarh,Chandigarh,Club,42444.5,Outdoor,12.8,6289.5
+200051,VEN-200051,Ahmedabad Arena 200051,Ahmedabad,Gujarat,Stadium,11395.0,Indoor,14.5,680.0
+200052,VEN-200052,Delhi Arena 200052,Delhi,Delhi,Club,42712.0,Indoor,19.4,6289.5
+200053,VEN-200053,Patna Arena 200053,Patna,Bihar,Stadium,39923.0,Outdoor,18.5,10125.0
+200054,VEN-200054,Chandigarh Arena 200054,Chandigarh,Chandigarh,Auditorium,42444.5,Outdoor,21.2,6605.0
+200055,VEN-200055,Gaya Arena 200055,Gaya,Bihar,Convention Center,48273.0,Indoor,9.0,6289.5
+200056,VEN-200056,Lucknow Arena 200056,Lucknow,Uttar Pradesh,Open Ground,42444.5,Outdoor,10.1,6289.5
+200057,VEN-200057,Pune Arena 200057,Pune,Maharashtra,Open Ground,42444.5,Outdoor,14.7,4157.0
+200058,VEN-200058,Ranchi Arena 200058,Ranchi,Jharkhand,Open Ground,42444.5,Indoor,17.3,6289.5
+200059,VEN-200059,Chandigarh Arena 200059,Chandigarh,Chandigarh,Stadium,42444.5,Indoor,4.6,6289.5
+200060,VEN-200060,Pune Arena 200060,Pune,Maharashtra,Auditorium,77154.0,Outdoor,4.5,6289.5
+200061,VEN-200061,Gaya Arena 200061,Gaya,Bihar,Auditorium,42444.5,Indoor,16.5,7176.0
+200062,VEN-200062,Ahmedabad Arena 200062,Ahmedabad,Gujarat,Auditorium,42444.5,Indoor,5.4,10253.0
+200063,VEN-200063,Gurugram Arena 200063,Gurugram,Haryana,Club,42444.5,Indoor,7.7,2626.0
+200064,VEN-200064,Pune Arena 200064,Pune,Maharashtra,Open Ground,42444.5,Indoor,5.6,5185.0
+200065,VEN-200065,Ahmedabad Arena 200065,Ahmedabad,Gujarat,Open Ground,42444.5,Outdoor,19.3,7205.0
+200066,VEN-200066,Chandigarh Arena 200066,Chandigarh,Chandigarh,Open Ground,42444.5,Outdoor,3.2,6289.5
+200067,VEN-200067,Pune Arena 200067,Pune,Maharashtra,Theatre,28355.0,Outdoor,3.2,6289.5
+200068,VEN-200068,Mumbai Arena 200068,Mumbai,Maharashtra,Convention Center,42444.5,Indoor,24.9,7289.0
+200069,VEN-200069,Pune Arena 200069,Pune,Maharashtra,Theatre,42444.5,Outdoor,23.1,6289.5
+200070,VEN-200070,Bhopal Arena 200070,Bhopal,Madhya Pradesh,Auditorium,46031.0,Outdoor,1.8,3017.0
+200071,VEN-200071,Kolkata Arena 200071,Kolkata,West Bengal,Convention Center,39881.0,Indoor,19.1,6289.5
+200072,VEN-200072,Bhopal Arena 200072,Bhopal,Madhya Pradesh,Stadium,42444.5,Outdoor,20.4,6289.5
+200073,VEN-200073,Noida Arena 200073,Noida,Uttar Pradesh,Theatre,76717.0,Indoor,1.0,6289.5
+200074,VEN-200074,Noida Arena 200074,Noida,Uttar Pradesh,Convention Center,42174.0,Indoor,14.7,6289.5
+200075,VEN-200075,Patna Arena 200075,Patna,Bihar,Convention Center,78409.0,Outdoor,6.7,6289.5
+200076,VEN-200076,Delhi Arena 200076,Delhi,Delhi,Theatre,42444.5,Indoor,8.3,6289.5
+200077,VEN-200077,Patna Arena 200077,Patna,Bihar,Auditorium,42444.5,Indoor,18.5,6289.5
+200078,VEN-200078,Hyderabad Arena 200078,Hyderabad,Telangana,Open Ground,42444.5,Outdoor,5.2,11250.0
+200079,VEN-200079,Gurugram Arena 200079,Gurugram,Haryana,Theatre,42444.5,Indoor,6.6,6289.5
+200080,VEN-200080,Indore Arena 200080,Indore,Madhya Pradesh,Open Ground,70564.0,Outdoor,21.6,6148.0
+200081,VEN-200081,Jaipur Arena 200081,Jaipur,Rajasthan,Open Ground,42444.5,Indoor,13.8,8593.0
+200082,VEN-200082,Patna Arena 200082,Patna,Bihar,Theatre,42444.5,Indoor,8.4,6289.5
+200083,VEN-200083,Patna Arena 200083,Patna,Bihar,Theatre,30151.0,Outdoor,15.6,6289.5
+200084,VEN-200084,Gaya Arena 200084,Gaya,Bihar,Club,56765.0,Outdoor,0.4,8727.0
+200085,VEN-200085,Bhopal Arena 200085,Bhopal,Madhya Pradesh,Open Ground,42444.5,Indoor,19.4,4972.0
+200086,VEN-200086,Bengaluru Arena 200086,Bengaluru,Karnataka,Club,42444.5,Indoor,8.7,6289.5
+200087,VEN-200087,Bhopal Arena 200087,Bhopal,Madhya Pradesh,Stadium,70467.0,Outdoor,21.8,917.0
+200088,VEN-200088,Delhi Arena 200088,Delhi,Delhi,Convention Center,42444.5,Indoor,24.3,6289.5
+200089,VEN-200089,Hyderabad Arena 200089,Hyderabad,Telangana,Theatre,42444.5,Indoor,10.6,6289.5
+200090,VEN-200090,Mumbai Arena 200090,Mumbai,Maharashtra,Open Ground,42444.5,Indoor,13.9,6289.5
+200091,VEN-200091,Gurugram Arena 200091,Gurugram,Haryana,Theatre,42444.5,Outdoor,18.3,6289.5
+200092,VEN-200092,Jaipur Arena 200092,Jaipur,Rajasthan,Theatre,42444.5,Outdoor,13.3,10559.0
+200093,VEN-200093,Gaya Arena 200093,Gaya,Bihar,Open Ground,42444.5,Indoor,1.0,7974.0
+200094,VEN-200094,Noida Arena 200094,Noida,Uttar Pradesh,Auditorium,57367.0,Outdoor,13.7,6289.5
+200095,VEN-200095,Gurugram Arena 200095,Gurugram,Haryana,Open Ground,42444.5,Indoor,19.2,3557.0
+200096,VEN-200096,Bengaluru Arena 200096,Bengaluru,Karnataka,Stadium,42444.5,Outdoor,17.6,11932.0
+200097,VEN-200097,Pune Arena 200097,Pune,Maharashtra,Theatre,42444.5,Indoor,22.5,9824.0
+200098,VEN-200098,Bengaluru Arena 200098,Bengaluru,Karnataka,Open Ground,74768.0,Outdoor,9.7,2448.0
+200099,VEN-200099,Hyderabad Arena 200099,Hyderabad,Telangana,Club,42444.5,Outdoor,20.1,6289.5
+200100,VEN-200100,Patna Arena 200100,Patna,Bihar,Open Ground,42444.5,Outdoor,4.6,6289.5
+200101,VEN-200101,Chennai Arena 200101,Chennai,Tamil Nadu,Open Ground,16937.0,Outdoor,10.2,1763.0
+200102,VEN-200102,Bhopal Arena 200102,Bhopal,Madhya Pradesh,Open Ground,48253.0,Outdoor,23.3,6289.5
+200103,VEN-200103,Bhopal Arena 200103,Bhopal,Madhya Pradesh,Club,44495.0,Indoor,0.3,6289.5
+200104,VEN-200104,Delhi Arena 200104,Delhi,Delhi,Open Ground,78322.0,Indoor,15.2,6289.5
+200105,VEN-200105,Noida Arena 200105,Noida,Uttar Pradesh,Theatre,42444.5,Indoor,13.1,6289.5
+200106,VEN-200106,Mumbai Arena 200106,Mumbai,Maharashtra,Open Ground,42444.5,Indoor,0.9,6289.5
+200107,VEN-200107,Chennai Arena 200107,Chennai,Tamil Nadu,Stadium,25273.0,Indoor,2.1,6289.5
+200108,VEN-200108,Mumbai Arena 200108,Mumbai,Maharashtra,Auditorium,42829.0,Outdoor,8.4,10351.0
+200109,VEN-200109,Gurugram Arena 200109,Gurugram,Haryana,Theatre,42444.5,Indoor,1.4,1668.0
+200110,VEN-200110,Hyderabad Arena 200110,Hyderabad,Telangana,Theatre,42444.5,Indoor,24.7,6289.5
+200111,VEN-200111,Bhopal Arena 200111,Bhopal,Madhya Pradesh,Convention Center,42444.5,Indoor,4.7,6289.5
+200112,VEN-200112,Indore Arena 200112,Indore,Madhya Pradesh,Club,42444.5,Indoor,6.7,9732.0
+200113,VEN-200113,Noida Arena 200113,Noida,Uttar Pradesh,Club,42444.5,Outdoor,20.6,6289.5
+200114,VEN-200114,Gurugram Arena 200114,Gurugram,Haryana,Auditorium,42444.5,Indoor,18.8,6289.5
+200115,VEN-200115,Mumbai Arena 200115,Mumbai,Maharashtra,Theatre,73041.0,Outdoor,13.2,6289.5
+200116,VEN-200116,Chennai Arena 200116,Chennai,Tamil Nadu,Convention Center,42444.5,Outdoor,23.9,858.0
+200117,VEN-200117,Chandigarh Arena 200117,Chandigarh,Chandigarh,Auditorium,42444.5,Outdoor,6.0,6289.5
+200118,VEN-200118,Bhopal Arena 200118,Bhopal,Madhya Pradesh,Theatre,42444.5,Outdoor,11.3,6289.5
+200119,VEN-200119,Gurugram Arena 200119,Gurugram,Haryana,Convention Center,51036.0,Indoor,2.4,574.0
+200120,VEN-200120,Jaipur Arena 200120,Jaipur,Rajasthan,Convention Center,50936.0,Outdoor,24.4,5541.0
+200121,VEN-200121,Bhopal Arena 200121,Bhopal,Madhya Pradesh,Club,39446.0,Outdoor,12.4,6289.5
+200122,VEN-200122,Chennai Arena 200122,Chennai,Tamil Nadu,Theatre,42444.5,Indoor,6.9,11051.0
+200123,VEN-200123,Noida Arena 200123,Noida,Uttar Pradesh,Theatre,28620.0,Indoor,14.4,6289.5
+200124,VEN-200124,Ranchi Arena 200124,Ranchi,Jharkhand,Auditorium,69087.0,Indoor,17.8,6289.5
+200125,VEN-200125,Kolkata Arena 200125,Kolkata,West Bengal,Open Ground,74891.0,Outdoor,11.6,6289.5
+200126,VEN-200126,Pune Arena 200126,Pune,Maharashtra,Convention Center,75912.0,Outdoor,5.2,11320.0
+200127,VEN-200127,Delhi Arena 200127,Delhi,Delhi,Open Ground,29564.0,Indoor,8.1,7673.0
+200128,VEN-200128,Indore Arena 200128,Indore,Madhya Pradesh,Convention Center,42444.5,Indoor,18.3,6289.5
+200129,VEN-200129,Indore Arena 200129,Indore,Madhya Pradesh,Convention Center,42444.5,Indoor,12.1,8136.0
+200130,VEN-200130,Ranchi Arena 200130,Ranchi,Jharkhand,Theatre,18509.0,Indoor,21.8,881.0
+200131,VEN-200131,Hyderabad Arena 200131,Hyderabad,Telangana,Club,42444.5,Outdoor,1.6,9821.0
+200132,VEN-200132,Bhopal Arena 200132,Bhopal,Madhya Pradesh,Club,38153.0,Indoor,4.6,5319.0
+200133,VEN-200133,Chennai Arena 200133,Chennai,Tamil Nadu,Theatre,31052.0,Indoor,8.1,9956.0
+200134,VEN-200134,Hyderabad Arena 200134,Hyderabad,Telangana,Open Ground,42444.5,Outdoor,11.5,1318.0
+200135,VEN-200135,Gurugram Arena 200135,Gurugram,Haryana,Auditorium,45531.0,Outdoor,10.6,6411.0
+200136,VEN-200136,Gaya Arena 200136,Gaya,Bihar,Auditorium,47123.0,Outdoor,14.3,6289.5
+200137,VEN-200137,Noida Arena 200137,Noida,Uttar Pradesh,Auditorium,21697.0,Outdoor,16.5,6363.0
+200138,VEN-200138,Noida Arena 200138,Noida,Uttar Pradesh,Theatre,54688.0,Indoor,2.5,2372.0
+200139,VEN-200139,Hyderabad Arena 200139,Hyderabad,Telangana,Theatre,42444.5,Indoor,13.5,9182.0
+200140,VEN-200140,Pune Arena 200140,Pune,Maharashtra,Auditorium,42444.5,Indoor,21.4,6289.5
+200141,VEN-200141,Patna Arena 200141,Patna,Bihar,Open Ground,42444.5,Indoor,16.9,4039.0
+200142,VEN-200142,Gaya Arena 200142,Gaya,Bihar,Auditorium,42444.5,Outdoor,15.3,7911.0
+200143,VEN-200143,Ranchi Arena 200143,Ranchi,Jharkhand,Open Ground,12522.0,Indoor,5.9,11409.0
+200144,VEN-200144,Delhi Arena 200144,Delhi,Delhi,Auditorium,46943.0,Outdoor,3.7,6289.5
+200145,VEN-200145,Ranchi Arena 200145,Ranchi,Jharkhand,Club,42444.5,Outdoor,7.9,6289.5
+200146,VEN-200146,Noida Arena 200146,Noida,Uttar Pradesh,Stadium,56484.0,Outdoor,0.6,6289.5
+200147,VEN-200147,Ahmedabad Arena 200147,Ahmedabad,Gujarat,Theatre,42444.5,Indoor,24.6,6289.5
+200148,VEN-200148,Ahmedabad Arena 200148,Ahmedabad,Gujarat,Auditorium,42444.5,Indoor,10.6,6289.5
+200149,VEN-200149,Ranchi Arena 200149,Ranchi,Jharkhand,Convention Center,7418.0,Indoor,24.2,1515.0
+200150,VEN-200150,Gaya Arena 200150,Gaya,Bihar,Open Ground,2496.0,Indoor,11.2,6289.5
+200151,VEN-200151,Jaipur Arena 200151,Jaipur,Rajasthan,Club,42444.5,Indoor,1.6,7046.0
+200152,VEN-200152,Kolkata Arena 200152,Kolkata,West Bengal,Stadium,42444.5,Outdoor,6.5,6289.5
+200153,VEN-200153,Chandigarh Arena 200153,Chandigarh,Chandigarh,Auditorium,42444.5,Outdoor,16.9,5812.0
+200154,VEN-200154,Chandigarh Arena 200154,Chandigarh,Chandigarh,Open Ground,42444.5,Outdoor,13.4,6289.5
+200155,VEN-200155,Noida Arena 200155,Noida,Uttar Pradesh,Theatre,48927.0,Indoor,21.9,2800.0
+200156,VEN-200156,Gurugram Arena 200156,Gurugram,Haryana,Convention Center,42444.5,Outdoor,16.8,478.0
+200157,VEN-200157,Indore Arena 200157,Indore,Madhya Pradesh,Convention Center,5702.0,Outdoor,0.4,6289.5
+200158,VEN-200158,Gaya Arena 200158,Gaya,Bihar,Theatre,42444.5,Indoor,1.0,6289.5
+200159,VEN-200159,Ranchi Arena 200159,Ranchi,Jharkhand,Stadium,42444.5,Indoor,8.9,11937.0
+200160,VEN-200160,Pune Arena 200160,Pune,Maharashtra,Stadium,44215.0,Indoor,19.1,10529.0
+200161,VEN-200161,Gurugram Arena 200161,Gurugram,Haryana,Open Ground,42444.5,Indoor,18.8,6289.5
+200162,VEN-200162,Jaipur Arena 200162,Jaipur,Rajasthan,Convention Center,42444.5,Indoor,6.7,6289.5
+200163,VEN-200163,Hyderabad Arena 200163,Hyderabad,Telangana,Auditorium,6528.0,Outdoor,2.5,6289.5
+200164,VEN-200164,Chandigarh Arena 200164,Chandigarh,Chandigarh,Theatre,42444.5,Outdoor,20.5,11914.0
+200165,VEN-200165,Kolkata Arena 200165,Kolkata,West Bengal,Open Ground,29985.0,Outdoor,18.6,6289.5
+200166,VEN-200166,Bengaluru Arena 200166,Bengaluru,Karnataka,Club,42444.5,Indoor,13.3,5877.0
+200167,VEN-200167,Gaya Arena 200167,Gaya,Bihar,Theatre,42444.5,Outdoor,24.2,6289.5
+200168,VEN-200168,Ranchi Arena 200168,Ranchi,Jharkhand,Open Ground,21602.0,Outdoor,11.2,6289.5
+200169,VEN-200169,Ranchi Arena 200169,Ranchi,Jharkhand,Club,47192.0,Outdoor,0.8,9874.0
+200170,VEN-200170,Noida Arena 200170,Noida,Uttar Pradesh,Auditorium,42444.5,Indoor,13.9,6289.5
+200171,VEN-200171,Indore Arena 200171,Indore,Madhya Pradesh,Open Ground,31663.0,Indoor,0.6,11366.0
+200172,VEN-200172,Gurugram Arena 200172,Gurugram,Haryana,Theatre,42444.5,Indoor,1.6,6749.0
+200173,VEN-200173,Hyderabad Arena 200173,Hyderabad,Telangana,Club,42444.5,Indoor,11.9,11706.0
+200174,VEN-200174,Indore Arena 200174,Indore,Madhya Pradesh,Theatre,42444.5,Outdoor,4.0,6289.5
+200175,VEN-200175,Chennai Arena 200175,Chennai,Tamil Nadu,Stadium,42444.5,Outdoor,3.7,6289.5
+200176,VEN-200176,Patna Arena 200176,Patna,Bihar,Theatre,42444.5,Outdoor,0.7,3141.0
+200177,VEN-200177,Gaya Arena 200177,Gaya,Bihar,Auditorium,77502.0,Indoor,10.3,6289.5
+200178,VEN-200178,Mumbai Arena 200178,Mumbai,Maharashtra,Convention Center,3702.0,Outdoor,16.3,7977.0
+200179,VEN-200179,Hyderabad Arena 200179,Hyderabad,Telangana,Auditorium,42444.5,Outdoor,7.6,6289.5
+200180,VEN-200180,Indore Arena 200180,Indore,Madhya Pradesh,Theatre,42444.5,Outdoor,11.2,9148.0
+200181,VEN-200181,Bhopal Arena 200181,Bhopal,Madhya Pradesh,Stadium,42444.5,Outdoor,4.9,6289.5
+200182,VEN-200182,Mumbai Arena 200182,Mumbai,Maharashtra,Convention Center,46943.0,Indoor,2.9,657.0
+200183,VEN-200183,Hyderabad Arena 200183,Hyderabad,Telangana,Convention Center,42444.5,Indoor,11.9,6289.5
+200184,VEN-200184,Chandigarh Arena 200184,Chandigarh,Chandigarh,Convention Center,42444.5,Indoor,3.2,6289.5
+200185,VEN-200185,Indore Arena 200185,Indore,Madhya Pradesh,Club,13209.0,Indoor,18.5,6289.5
+200186,VEN-200186,Jaipur Arena 200186,Jaipur,Rajasthan,Convention Center,42444.5,Indoor,0.3,489.0
+200187,VEN-200187,Jaipur Arena 200187,Jaipur,Rajasthan,Open Ground,42444.5,Outdoor,20.3,6289.5
+200188,VEN-200188,Gaya Arena 200188,Gaya,Bihar,Open Ground,1395.0,Indoor,10.5,8673.0
+200189,VEN-200189,Ranchi Arena 200189,Ranchi,Jharkhand,Theatre,42444.5,Indoor,15.9,11149.0
+200190,VEN-200190,Patna Arena 200190,Patna,Bihar,Club,42444.5,Outdoor,2.1,971.0
+200191,VEN-200191,Pune Arena 200191,Pune,Maharashtra,Open Ground,25350.0,Outdoor,17.3,6289.5
+200192,VEN-200192,Mumbai Arena 200192,Mumbai,Maharashtra,Theatre,22737.0,Outdoor,6.4,84.0
+200193,VEN-200193,Noida Arena 200193,Noida,Uttar Pradesh,Club,42444.5,Indoor,19.1,6289.5
+200194,VEN-200194,Pune Arena 200194,Pune,Maharashtra,Club,42444.5,Indoor,15.9,6289.5
+200195,VEN-200195,Patna Arena 200195,Patna,Bihar,Club,69300.0,Indoor,18.4,7051.0
+200196,VEN-200196,Noida Arena 200196,Noida,Uttar Pradesh,Theatre,42444.5,Outdoor,12.6,9073.0
+200197,VEN-200197,Kolkata Arena 200197,Kolkata,West Bengal,Convention Center,42444.5,Outdoor,8.0,4471.0
+200198,VEN-200198,Mumbai Arena 200198,Mumbai,Maharashtra,Stadium,42444.5,Indoor,18.6,2456.0
+200199,VEN-200199,Gaya Arena 200199,Gaya,Bihar,Stadium,42444.5,Indoor,14.0,9244.0
+200200,VEN-200200,Chandigarh Arena 200200,Chandigarh,Chandigarh,Convention Center,42444.5,Outdoor,4.4,1811.0
+200201,VEN-200201,Jaipur Arena 200201,Jaipur,Rajasthan,Stadium,67719.0,Outdoor,5.5,6289.5
+200202,VEN-200202,Patna Arena 200202,Patna,Bihar,Open Ground,42444.5,Indoor,22.9,3318.0
+200203,VEN-200203,Lucknow Arena 200203,Lucknow,Uttar Pradesh,Club,42444.5,Outdoor,1.4,782.0
+200204,VEN-200204,Lucknow Arena 200204,Lucknow,Uttar Pradesh,Auditorium,42444.5,Indoor,18.1,6289.5
+200205,VEN-200205,Patna Arena 200205,Patna,Bihar,Club,42444.5,Indoor,22.2,717.0
+200206,VEN-200206,Gaya Arena 200206,Gaya,Bihar,Stadium,42444.5,Indoor,1.0,6289.5
+200207,VEN-200207,Delhi Arena 200207,Delhi,Delhi,Open Ground,78102.0,Outdoor,4.7,6289.5
+200208,VEN-200208,Ranchi Arena 200208,Ranchi,Jharkhand,Auditorium,42444.5,Outdoor,18.3,6289.5
+200209,VEN-200209,Chennai Arena 200209,Chennai,Tamil Nadu,Open Ground,22389.0,Indoor,19.2,6289.5
+200210,VEN-200210,Jaipur Arena 200210,Jaipur,Rajasthan,Convention Center,42444.5,Indoor,23.6,3090.0
+200211,VEN-200211,Hyderabad Arena 200211,Hyderabad,Telangana,Convention Center,75112.0,Indoor,3.2,6289.5
+200212,VEN-200212,Pune Arena 200212,Pune,Maharashtra,Convention Center,43980.0,Outdoor,0.6,6009.0
+200213,VEN-200213,Delhi Arena 200213,Delhi,Delhi,Convention Center,42444.5,Indoor,12.5,6289.5
+200214,VEN-200214,Bengaluru Arena 200214,Bengaluru,Karnataka,Open Ground,42444.5,Indoor,4.6,6909.0
+200215,VEN-200215,Hyderabad Arena 200215,Hyderabad,Telangana,Stadium,42444.5,Outdoor,18.3,7588.0
+200216,VEN-200216,Delhi Arena 200216,Delhi,Delhi,Open Ground,42444.5,Indoor,7.8,6289.5
+200217,VEN-200217,Indore Arena 200217,Indore,Madhya Pradesh,Open Ground,16485.0,Outdoor,21.8,9845.0
+200218,VEN-200218,Jaipur Arena 200218,Jaipur,Rajasthan,Club,42444.5,Indoor,5.9,8437.0
+200219,VEN-200219,Gaya Arena 200219,Gaya,Bihar,Theatre,42093.0,Outdoor,11.0,6289.5
+200220,VEN-200220,Ahmedabad Arena 200220,Ahmedabad,Gujarat,Convention Center,42444.5,Indoor,17.2,3743.0
+200221,VEN-200221,Patna Arena 200221,Patna,Bihar,Club,42444.5,Indoor,14.1,7420.0
+200222,VEN-200222,Jaipur Arena 200222,Jaipur,Rajasthan,Open Ground,46290.0,Outdoor,0.5,6289.5
+200223,VEN-200223,Jaipur Arena 200223,Jaipur,Rajasthan,Theatre,44644.0,Indoor,13.1,6282.0
+200224,VEN-200224,Ranchi Arena 200224,Ranchi,Jharkhand,Open Ground,42444.5,Outdoor,22.5,2957.0
+200225,VEN-200225,Jaipur Arena 200225,Jaipur,Rajasthan,Convention Center,70607.0,Outdoor,10.1,6289.5
+200226,VEN-200226,Bhopal Arena 200226,Bhopal,Madhya Pradesh,Club,42444.5,Indoor,22.5,6289.5
+200227,VEN-200227,Lucknow Arena 200227,Lucknow,Uttar Pradesh,Stadium,42444.5,Outdoor,19.2,6289.5
+200228,VEN-200228,Patna Arena 200228,Patna,Bihar,Theatre,42444.5,Indoor,22.0,6289.5
+200229,VEN-200229,Gaya Arena 200229,Gaya,Bihar,Convention Center,42444.5,Indoor,4.9,6289.5
+200230,VEN-200230,Noida Arena 200230,Noida,Uttar Pradesh,Club,42444.5,Outdoor,22.2,6289.5
+200231,VEN-200231,Lucknow Arena 200231,Lucknow,Uttar Pradesh,Stadium,42444.5,Indoor,0.3,554.0
+200232,VEN-200232,Gurugram Arena 200232,Gurugram,Haryana,Open Ground,7951.0,Outdoor,17.1,6289.5
+200233,VEN-200233,Bengaluru Arena 200233,Bengaluru,Karnataka,Open Ground,77203.0,Indoor,6.7,6289.5
+200234,VEN-200234,Hyderabad Arena 200234,Hyderabad,Telangana,Theatre,62528.0,Outdoor,10.3,1188.0
+200235,VEN-200235,Kolkata Arena 200235,Kolkata,West Bengal,Club,42444.5,Indoor,1.3,6289.5
+200236,VEN-200236,Pune Arena 200236,Pune,Maharashtra,Stadium,41801.0,Indoor,1.3,6289.5
+200237,VEN-200237,Delhi Arena 200237,Delhi,Delhi,Auditorium,42444.5,Outdoor,23.3,3655.0
+200238,VEN-200238,Jaipur Arena 200238,Jaipur,Rajasthan,Convention Center,42444.5,Outdoor,13.7,6289.5
+200239,VEN-200239,Chennai Arena 200239,Chennai,Tamil Nadu,Convention Center,51036.0,Outdoor,8.0,6289.5
+200240,VEN-200240,Chandigarh Arena 200240,Chandigarh,Chandigarh,Stadium,42444.5,Indoor,18.4,2451.0
+200241,VEN-200241,Delhi Arena 200241,Delhi,Delhi,Auditorium,42444.5,Indoor,6.3,11327.0
+200242,VEN-200242,Bengaluru Arena 200242,Bengaluru,Karnataka,Open Ground,42444.5,Indoor,10.3,6289.5
+200243,VEN-200243,Gurugram Arena 200243,Gurugram,Haryana,Stadium,8632.0,Indoor,11.2,1563.0
+200244,VEN-200244,Hyderabad Arena 200244,Hyderabad,Telangana,Open Ground,42444.5,Indoor,9.2,6289.5
+200245,VEN-200245,Kolkata Arena 200245,Kolkata,West Bengal,Convention Center,14478.0,Outdoor,9.0,6289.5
+200246,VEN-200246,Mumbai Arena 200246,Mumbai,Maharashtra,Auditorium,73198.0,Indoor,5.6,6289.5
+200247,VEN-200247,Gurugram Arena 200247,Gurugram,Haryana,Convention Center,42444.5,Outdoor,3.5,11565.0
+200248,VEN-200248,Chandigarh Arena 200248,Chandigarh,Chandigarh,Theatre,50744.0,Outdoor,1.8,609.0
+200249,VEN-200249,Noida Arena 200249,Noida,Uttar Pradesh,Club,78841.0,Indoor,12.2,2186.0
+200250,VEN-200250,Noida Arena 200250,Noida,Uttar Pradesh,Stadium,15879.0,Indoor,8.7,6289.5
+200251,VEN-200251,Patna Arena 200251,Patna,Bihar,Stadium,42444.5,Indoor,1.7,11691.0
+200252,VEN-200252,Chandigarh Arena 200252,Chandigarh,Chandigarh,Club,42444.5,Outdoor,2.4,6289.5
+200253,VEN-200253,Kolkata Arena 200253,Kolkata,West Bengal,Theatre,42444.5,Outdoor,11.6,6386.0
+200254,VEN-200254,Bengaluru Arena 200254,Bengaluru,Karnataka,Club,1257.0,Indoor,21.8,6289.5
+200255,VEN-200255,Bhopal Arena 200255,Bhopal,Madhya Pradesh,Convention Center,73781.0,Outdoor,2.2,11110.0
+200256,VEN-200256,Kolkata Arena 200256,Kolkata,West Bengal,Stadium,5881.0,Indoor,13.1,896.0
+200257,VEN-200257,Jaipur Arena 200257,Jaipur,Rajasthan,Club,42444.5,Indoor,15.0,6289.5
+200258,VEN-200258,Chennai Arena 200258,Chennai,Tamil Nadu,Club,68209.0,Indoor,21.5,6289.5
+200259,VEN-200259,Mumbai Arena 200259,Mumbai,Maharashtra,Open Ground,8856.0,Indoor,4.8,227.0
+200260,VEN-200260,Chandigarh Arena 200260,Chandigarh,Chandigarh,Theatre,72292.0,Outdoor,22.9,6289.5
+200261,VEN-200261,Bengaluru Arena 200261,Bengaluru,Karnataka,Convention Center,29297.0,Outdoor,21.5,11697.0
+200262,VEN-200262,Gurugram Arena 200262,Gurugram,Haryana,Club,42444.5,Indoor,23.1,6289.5
+200263,VEN-200263,Kolkata Arena 200263,Kolkata,West Bengal,Stadium,11615.0,Indoor,21.7,11696.0
+200264,VEN-200264,Ranchi Arena 200264,Ranchi,Jharkhand,Convention Center,4070.0,Indoor,3.1,6289.5
+200265,VEN-200265,Delhi Arena 200265,Delhi,Delhi,Theatre,79861.0,Indoor,6.3,950.0
+200266,VEN-200266,Ranchi Arena 200266,Ranchi,Jharkhand,Club,50895.0,Indoor,14.5,6289.5
+200267,VEN-200267,Noida Arena 200267,Noida,Uttar Pradesh,Open Ground,75078.0,Indoor,10.9,7985.0
+200268,VEN-200268,Chandigarh Arena 200268,Chandigarh,Chandigarh,Theatre,67515.0,Indoor,13.8,11719.0
+200269,VEN-200269,Mumbai Arena 200269,Mumbai,Maharashtra,Theatre,42444.5,Outdoor,10.8,7851.0
+200270,VEN-200270,Kolkata Arena 200270,Kolkata,West Bengal,Club,42444.5,Indoor,23.6,6289.5
+200271,VEN-200271,Chandigarh Arena 200271,Chandigarh,Chandigarh,Stadium,42444.5,Indoor,24.8,9643.0
+200272,VEN-200272,Ahmedabad Arena 200272,Ahmedabad,Gujarat,Stadium,21809.0,Indoor,11.7,4736.0
+200273,VEN-200273,Mumbai Arena 200273,Mumbai,Maharashtra,Auditorium,42444.5,Indoor,20.0,6289.5
+200274,VEN-200274,Delhi Arena 200274,Delhi,Delhi,Open Ground,46610.0,Outdoor,20.9,9690.0
+200275,VEN-200275,Mumbai Arena 200275,Mumbai,Maharashtra,Stadium,42444.5,Outdoor,11.3,9434.0
+200276,VEN-200276,Ahmedabad Arena 200276,Ahmedabad,Gujarat,Theatre,42444.5,Outdoor,18.7,6289.5
+200277,VEN-200277,Indore Arena 200277,Indore,Madhya Pradesh,Open Ground,42444.5,Indoor,9.0,6289.5
+200278,VEN-200278,Chennai Arena 200278,Chennai,Tamil Nadu,Open Ground,42444.5,Indoor,11.5,6289.5
+200279,VEN-200279,Pune Arena 200279,Pune,Maharashtra,Auditorium,42444.5,Outdoor,21.1,5801.0
+200280,VEN-200280,Gaya Arena 200280,Gaya,Bihar,Auditorium,52498.0,Indoor,4.0,9444.0
+200281,VEN-200281,Ahmedabad Arena 200281,Ahmedabad,Gujarat,Stadium,847.0,Outdoor,7.1,11124.0
+200282,VEN-200282,Kolkata Arena 200282,Kolkata,West Bengal,Convention Center,42444.5,Outdoor,7.0,6289.5
+200283,VEN-200283,Ahmedabad Arena 200283,Ahmedabad,Gujarat,Open Ground,42444.5,Indoor,14.6,6289.5
+200284,VEN-200284,Ranchi Arena 200284,Ranchi,Jharkhand,Auditorium,46435.0,Indoor,4.5,6221.0
+200285,VEN-200285,Indore Arena 200285,Indore,Madhya Pradesh,Theatre,42444.5,Outdoor,11.3,6655.0
+200286,VEN-200286,Ahmedabad Arena 200286,Ahmedabad,Gujarat,Theatre,42444.5,Indoor,19.6,3344.0
+200287,VEN-200287,Ranchi Arena 200287,Ranchi,Jharkhand,Convention Center,42444.5,Indoor,10.9,422.0
+200288,VEN-200288,Bengaluru Arena 200288,Bengaluru,Karnataka,Auditorium,42444.5,Indoor,13.3,6289.5
+200289,VEN-200289,Delhi Arena 200289,Delhi,Delhi,Stadium,42444.5,Indoor,14.7,2758.0
+200290,VEN-200290,Mumbai Arena 200290,Mumbai,Maharashtra,Auditorium,42444.5,Indoor,1.2,1869.0
+200291,VEN-200291,Bengaluru Arena 200291,Bengaluru,Karnataka,Open Ground,42444.5,Outdoor,23.2,6289.5
+200292,VEN-200292,Ahmedabad Arena 200292,Ahmedabad,Gujarat,Auditorium,67777.0,Indoor,7.3,4082.0
+200293,VEN-200293,Ahmedabad Arena 200293,Ahmedabad,Gujarat,Convention Center,42444.5,Indoor,22.8,6289.5
+200294,VEN-200294,Kolkata Arena 200294,Kolkata,West Bengal,Convention Center,42444.5,Indoor,12.7,6289.5
+200295,VEN-200295,Hyderabad Arena 200295,Hyderabad,Telangana,Stadium,56399.0,Outdoor,11.4,2480.0
+200296,VEN-200296,Patna Arena 200296,Patna,Bihar,Stadium,650.0,Indoor,4.1,6289.5
+200297,VEN-200297,Jaipur Arena 200297,Jaipur,Rajasthan,Auditorium,9428.0,Indoor,11.8,6289.5
+200298,VEN-200298,Bhopal Arena 200298,Bhopal,Madhya Pradesh,Auditorium,42444.5,Indoor,5.4,6289.5
+200299,VEN-200299,Ranchi Arena 200299,Ranchi,Jharkhand,Auditorium,42444.5,Outdoor,8.1,6289.5
+200300,VEN-200300,Jaipur Arena 200300,Jaipur,Rajasthan,Theatre,39137.0,Indoor,23.4,10277.0
+200301,VEN-200301,Patna Arena 200301,Patna,Bihar,Open Ground,42444.5,Indoor,9.0,6430.0
+200302,VEN-200302,Pune Arena 200302,Pune,Maharashtra,Stadium,42444.5,Outdoor,8.7,5651.0
+200303,VEN-200303,Bhopal Arena 200303,Bhopal,Madhya Pradesh,Club,42444.5,Indoor,2.3,2375.0
+200304,VEN-200304,Jaipur Arena 200304,Jaipur,Rajasthan,Auditorium,42444.5,Outdoor,23.7,8858.0
+200305,VEN-200305,Mumbai Arena 200305,Mumbai,Maharashtra,Auditorium,42444.5,Indoor,6.8,6289.5
+200306,VEN-200306,Kolkata Arena 200306,Kolkata,West Bengal,Club,42444.5,Indoor,2.0,6289.5
+200307,VEN-200307,Lucknow Arena 200307,Lucknow,Uttar Pradesh,Theatre,42444.5,Outdoor,9.7,6289.5
+200308,VEN-200308,Mumbai Arena 200308,Mumbai,Maharashtra,Stadium,21225.0,Indoor,8.4,6289.5
+200309,VEN-200309,Bengaluru Arena 200309,Bengaluru,Karnataka,Convention Center,42444.5,Indoor,6.4,6289.5
+200310,VEN-200310,Pune Arena 200310,Pune,Maharashtra,Convention Center,42444.5,Outdoor,8.5,6289.5
+200311,VEN-200311,Chandigarh Arena 200311,Chandigarh,Chandigarh,Theatre,4030.0,Indoor,15.4,8600.0
+200312,VEN-200312,Lucknow Arena 200312,Lucknow,Uttar Pradesh,Convention Center,42444.5,Indoor,22.4,4938.0
+200313,VEN-200313,Lucknow Arena 200313,Lucknow,Uttar Pradesh,Auditorium,42444.5,Outdoor,11.6,5298.0
+200314,VEN-200314,Mumbai Arena 200314,Mumbai,Maharashtra,Theatre,77599.0,Indoor,12.1,8318.0
+200315,VEN-200315,Chennai Arena 200315,Chennai,Tamil Nadu,Open Ground,68719.0,Outdoor,17.6,4659.0
+200316,VEN-200316,Chandigarh Arena 200316,Chandigarh,Chandigarh,Theatre,42444.5,Indoor,9.9,10862.0
+200317,VEN-200317,Gaya Arena 200317,Gaya,Bihar,Theatre,24466.0,Indoor,6.1,321.0
+200318,VEN-200318,Jaipur Arena 200318,Jaipur,Rajasthan,Open Ground,42444.5,Indoor,6.1,4963.0
+200319,VEN-200319,Gaya Arena 200319,Gaya,Bihar,Club,42444.5,Indoor,19.1,6289.5
+200320,VEN-200320,Gaya Arena 200320,Gaya,Bihar,Auditorium,42444.5,Indoor,23.0,10658.0
+200321,VEN-200321,Chennai Arena 200321,Chennai,Tamil Nadu,Auditorium,42444.5,Indoor,24.7,6289.5
+200322,VEN-200322,Bhopal Arena 200322,Bhopal,Madhya Pradesh,Club,19664.0,Outdoor,20.0,5018.0
+200323,VEN-200323,Kolkata Arena 200323,Kolkata,West Bengal,Auditorium,42444.5,Outdoor,19.2,1624.0
+200324,VEN-200324,Noida Arena 200324,Noida,Uttar Pradesh,Open Ground,30712.0,Indoor,2.4,4134.0
+200325,VEN-200325,Jaipur Arena 200325,Jaipur,Rajasthan,Auditorium,42444.5,Outdoor,0.6,6289.5
+200326,VEN-200326,Ahmedabad Arena 200326,Ahmedabad,Gujarat,Convention Center,3680.0,Indoor,5.6,6289.5
+200327,VEN-200327,Bengaluru Arena 200327,Bengaluru,Karnataka,Club,42444.5,Outdoor,22.5,6758.0
+200328,VEN-200328,Chandigarh Arena 200328,Chandigarh,Chandigarh,Auditorium,5232.0,Outdoor,15.1,6289.5
+200329,VEN-200329,Delhi Arena 200329,Delhi,Delhi,Theatre,31331.0,Outdoor,10.3,6637.0
+200330,VEN-200330,Noida Arena 200330,Noida,Uttar Pradesh,Theatre,63244.0,Outdoor,18.0,3940.0
+200331,VEN-200331,Ahmedabad Arena 200331,Ahmedabad,Gujarat,Convention Center,42444.5,Outdoor,14.0,6289.5
+200332,VEN-200332,Chandigarh Arena 200332,Chandigarh,Chandigarh,Open Ground,42444.5,Indoor,7.6,6289.5
+200333,VEN-200333,Mumbai Arena 200333,Mumbai,Maharashtra,Theatre,24165.0,Indoor,24.1,4502.0
+200334,VEN-200334,Ranchi Arena 200334,Ranchi,Jharkhand,Theatre,42444.5,Indoor,21.3,6289.5
+200335,VEN-200335,Indore Arena 200335,Indore,Madhya Pradesh,Club,42444.5,Outdoor,6.7,6289.5
+200336,VEN-200336,Ranchi Arena 200336,Ranchi,Jharkhand,Stadium,42444.5,Indoor,21.6,6289.5
+200337,VEN-200337,Gaya Arena 200337,Gaya,Bihar,Auditorium,41886.0,Indoor,23.3,7295.0
+200338,VEN-200338,Lucknow Arena 200338,Lucknow,Uttar Pradesh,Open Ground,42444.5,Indoor,16.2,1731.0
+200339,VEN-200339,Bengaluru Arena 200339,Bengaluru,Karnataka,Convention Center,42444.5,Indoor,17.8,6289.5
+200340,VEN-200340,Delhi Arena 200340,Delhi,Delhi,Auditorium,42444.5,Outdoor,22.5,6289.5
+200341,VEN-200341,Delhi Arena 200341,Delhi,Delhi,Auditorium,42444.5,Indoor,6.8,9203.0
+200342,VEN-200342,Jaipur Arena 200342,Jaipur,Rajasthan,Convention Center,42444.5,Indoor,4.0,6289.5
+200343,VEN-200343,Hyderabad Arena 200343,Hyderabad,Telangana,Club,42444.5,Indoor,24.7,6289.5
+200344,VEN-200344,Hyderabad Arena 200344,Hyderabad,Telangana,Stadium,15672.0,Indoor,1.2,1417.0
+200345,VEN-200345,Noida Arena 200345,Noida,Uttar Pradesh,Convention Center,5624.0,Outdoor,24.3,6289.5
+200346,VEN-200346,Noida Arena 200346,Noida,Uttar Pradesh,Convention Center,42444.5,Indoor,11.2,2853.0
+200347,VEN-200347,Bhopal Arena 200347,Bhopal,Madhya Pradesh,Open Ground,42444.5,Outdoor,24.5,6289.5
+200348,VEN-200348,Ranchi Arena 200348,Ranchi,Jharkhand,Stadium,42444.5,Indoor,2.2,568.0
+200349,VEN-200349,Hyderabad Arena 200349,Hyderabad,Telangana,Auditorium,57846.0,Outdoor,22.4,6266.0
+200350,VEN-200350,Gurugram Arena 200350,Gurugram,Haryana,Convention Center,42444.5,Outdoor,18.5,7068.0
+200351,VEN-200351,Hyderabad Arena 200351,Hyderabad,Telangana,Open Ground,42444.5,Outdoor,6.5,7892.0
+200352,VEN-200352,Patna Arena 200352,Patna,Bihar,Theatre,42444.5,Outdoor,8.0,6289.5
+200353,VEN-200353,Gurugram Arena 200353,Gurugram,Haryana,Theatre,42444.5,Indoor,14.5,6289.5
+200354,VEN-200354,Pune Arena 200354,Pune,Maharashtra,Auditorium,42444.5,Outdoor,13.0,6289.5
+200355,VEN-200355,Patna Arena 200355,Patna,Bihar,Stadium,42444.5,Outdoor,3.3,5552.0
+200356,VEN-200356,Ranchi Arena 200356,Ranchi,Jharkhand,Open Ground,29330.0,Outdoor,19.6,9834.0
+200357,VEN-200357,Delhi Arena 200357,Delhi,Delhi,Auditorium,53710.0,Indoor,1.7,6289.5
+200358,VEN-200358,Lucknow Arena 200358,Lucknow,Uttar Pradesh,Auditorium,42444.5,Outdoor,1.5,6289.5
+200359,VEN-200359,Hyderabad Arena 200359,Hyderabad,Telangana,Club,42444.5,Outdoor,22.6,6289.5
+200360,VEN-200360,Patna Arena 200360,Patna,Bihar,Open Ground,42444.5,Indoor,1.1,6289.5
+200361,VEN-200361,Gaya Arena 200361,Gaya,Bihar,Auditorium,29269.0,Indoor,15.0,3305.0
+200362,VEN-200362,Mumbai Arena 200362,Mumbai,Maharashtra,Convention Center,42444.5,Indoor,4.1,6289.5
+200363,VEN-200363,Pune Arena 200363,Pune,Maharashtra,Stadium,42444.5,Indoor,6.3,479.0
+200364,VEN-200364,Bengaluru Arena 200364,Bengaluru,Karnataka,Convention Center,42444.5,Indoor,18.0,9522.0
+200365,VEN-200365,Ahmedabad Arena 200365,Ahmedabad,Gujarat,Open Ground,46391.0,Outdoor,11.5,6289.5
+200366,VEN-200366,Jaipur Arena 200366,Jaipur,Rajasthan,Theatre,38709.0,Indoor,13.6,6289.5
+200367,VEN-200367,Lucknow Arena 200367,Lucknow,Uttar Pradesh,Stadium,52433.0,Indoor,5.0,6289.5
+200368,VEN-200368,Hyderabad Arena 200368,Hyderabad,Telangana,Stadium,42444.5,Outdoor,15.9,523.0
+200369,VEN-200369,Hyderabad Arena 200369,Hyderabad,Telangana,Stadium,73157.0,Indoor,21.0,6289.5
+200370,VEN-200370,Jaipur Arena 200370,Jaipur,Rajasthan,Open Ground,42444.5,Outdoor,23.4,1530.0
+200371,VEN-200371,Noida Arena 200371,Noida,Uttar Pradesh,Auditorium,30023.0,Outdoor,17.6,11065.0
+200372,VEN-200372,Noida Arena 200372,Noida,Uttar Pradesh,Club,42444.5,Indoor,12.0,267.0
+200373,VEN-200373,Hyderabad Arena 200373,Hyderabad,Telangana,Auditorium,42444.5,Indoor,10.4,6796.0
+200374,VEN-200374,Ranchi Arena 200374,Ranchi,Jharkhand,Open Ground,42444.5,Indoor,24.3,6289.5
+200375,VEN-200375,Delhi Arena 200375,Delhi,Delhi,Club,42444.5,Outdoor,21.4,9361.0
+200376,VEN-200376,Noida Arena 200376,Noida,Uttar Pradesh,Convention Center,61255.0,Outdoor,16.5,10392.0
+200377,VEN-200377,Pune Arena 200377,Pune,Maharashtra,Open Ground,6993.0,Outdoor,2.6,6289.5
+200378,VEN-200378,Lucknow Arena 200378,Lucknow,Uttar Pradesh,Auditorium,42444.5,Outdoor,4.7,9339.0
+200379,VEN-200379,Jaipur Arena 200379,Jaipur,Rajasthan,Stadium,42444.5,Outdoor,14.9,4417.0
+200380,VEN-200380,Indore Arena 200380,Indore,Madhya Pradesh,Convention Center,42444.5,Indoor,21.0,10155.0
+200381,VEN-200381,Ranchi Arena 200381,Ranchi,Jharkhand,Auditorium,42444.5,Indoor,12.1,6289.5
+200382,VEN-200382,Gaya Arena 200382,Gaya,Bihar,Auditorium,25516.0,Indoor,15.6,6289.5
+200383,VEN-200383,Kolkata Arena 200383,Kolkata,West Bengal,Auditorium,42444.5,Outdoor,4.8,8639.0
+200384,VEN-200384,Chennai Arena 200384,Chennai,Tamil Nadu,Stadium,6407.0,Indoor,0.8,6289.5
+200385,VEN-200385,Noida Arena 200385,Noida,Uttar Pradesh,Stadium,18589.0,Indoor,15.5,7654.0
+200386,VEN-200386,Indore Arena 200386,Indore,Madhya Pradesh,Stadium,24668.0,Indoor,4.1,6289.5
+200387,VEN-200387,Bhopal Arena 200387,Bhopal,Madhya Pradesh,Club,19924.0,Indoor,7.6,6289.5
+200388,VEN-200388,Jaipur Arena 200388,Jaipur,Rajasthan,Convention Center,42444.5,Indoor,16.5,6289.5
+200389,VEN-200389,Noida Arena 200389,Noida,Uttar Pradesh,Open Ground,66984.0,Indoor,3.2,10177.0
+200390,VEN-200390,Chennai Arena 200390,Chennai,Tamil Nadu,Theatre,15791.0,Outdoor,20.7,8369.0
+200391,VEN-200391,Jaipur Arena 200391,Jaipur,Rajasthan,Theatre,42444.5,Indoor,13.0,4132.0
+200392,VEN-200392,Chennai Arena 200392,Chennai,Tamil Nadu,Open Ground,42444.5,Indoor,22.5,10279.0
+200393,VEN-200393,Pune Arena 200393,Pune,Maharashtra,Auditorium,42444.5,Indoor,22.3,6289.5
+200394,VEN-200394,Chennai Arena 200394,Chennai,Tamil Nadu,Stadium,37342.0,Outdoor,18.0,6289.5
+200395,VEN-200395,Bhopal Arena 200395,Bhopal,Madhya Pradesh,Open Ground,57281.0,Outdoor,2.8,2082.0
+200396,VEN-200396,Chandigarh Arena 200396,Chandigarh,Chandigarh,Convention Center,42444.5,Indoor,11.7,9063.0
+200397,VEN-200397,Lucknow Arena 200397,Lucknow,Uttar Pradesh,Convention Center,42444.5,Outdoor,1.8,10120.0
+200398,VEN-200398,Jaipur Arena 200398,Jaipur,Rajasthan,Convention Center,25347.0,Indoor,5.8,6289.5
+200399,VEN-200399,Ahmedabad Arena 200399,Ahmedabad,Gujarat,Club,70273.0,Outdoor,18.2,6289.5
+200400,VEN-200400,Noida Arena 200400,Noida,Uttar Pradesh,Convention Center,42444.5,Outdoor,0.9,6289.5
+200401,VEN-200401,Chandigarh Arena 200401,Chandigarh,Chandigarh,Open Ground,42444.5,Indoor,4.3,11495.0
+200402,VEN-200402,Ahmedabad Arena 200402,Ahmedabad,Gujarat,Open Ground,42444.5,Indoor,13.8,7721.0
+200403,VEN-200403,Hyderabad Arena 200403,Hyderabad,Telangana,Stadium,42444.5,Outdoor,17.8,6289.5
+200404,VEN-200404,Mumbai Arena 200404,Mumbai,Maharashtra,Open Ground,78881.0,Outdoor,14.4,6289.5
+200405,VEN-200405,Bengaluru Arena 200405,Bengaluru,Karnataka,Club,42444.5,Outdoor,5.8,6289.5
+200406,VEN-200406,Jaipur Arena 200406,Jaipur,Rajasthan,Club,42444.5,Outdoor,12.3,6289.5
+200407,VEN-200407,Delhi Arena 200407,Delhi,Delhi,Open Ground,34811.0,Indoor,17.9,6289.5
+200408,VEN-200408,Patna Arena 200408,Patna,Bihar,Stadium,42444.5,Indoor,4.7,9869.0
+200409,VEN-200409,Kolkata Arena 200409,Kolkata,West Bengal,Theatre,6984.0,Indoor,9.9,5688.0
+200410,VEN-200410,Bhopal Arena 200410,Bhopal,Madhya Pradesh,Theatre,42444.5,Outdoor,0.6,3931.0
+200411,VEN-200411,Mumbai Arena 200411,Mumbai,Maharashtra,Club,42444.5,Indoor,20.4,4149.0
+200412,VEN-200412,Patna Arena 200412,Patna,Bihar,Auditorium,42444.5,Indoor,14.3,6289.5
+200413,VEN-200413,Gaya Arena 200413,Gaya,Bihar,Club,42444.5,Outdoor,18.3,2703.0
+200414,VEN-200414,Bhopal Arena 200414,Bhopal,Madhya Pradesh,Stadium,42444.5,Outdoor,21.6,6289.5
+200415,VEN-200415,Bhopal Arena 200415,Bhopal,Madhya Pradesh,Theatre,42444.5,Indoor,18.7,6289.5
+200416,VEN-200416,Lucknow Arena 200416,Lucknow,Uttar Pradesh,Convention Center,70616.0,Outdoor,13.7,6289.5
+200417,VEN-200417,Ahmedabad Arena 200417,Ahmedabad,Gujarat,Convention Center,42444.5,Indoor,22.3,8144.0
+200418,VEN-200418,Kolkata Arena 200418,Kolkata,West Bengal,Stadium,42346.0,Outdoor,19.9,6289.5
+200419,VEN-200419,Indore Arena 200419,Indore,Madhya Pradesh,Open Ground,42444.5,Indoor,24.6,6289.5
+200420,VEN-200420,Bengaluru Arena 200420,Bengaluru,Karnataka,Open Ground,42444.5,Indoor,2.7,6289.5
+200421,VEN-200421,Kolkata Arena 200421,Kolkata,West Bengal,Club,2490.0,Outdoor,23.8,6289.5
+200422,VEN-200422,Chennai Arena 200422,Chennai,Tamil Nadu,Convention Center,8230.0,Indoor,18.1,6289.5
+200423,VEN-200423,Ranchi Arena 200423,Ranchi,Jharkhand,Stadium,42444.5,Outdoor,7.4,6289.5
+200424,VEN-200424,Gaya Arena 200424,Gaya,Bihar,Stadium,42444.5,Outdoor,5.8,6289.5
+200425,VEN-200425,Hyderabad Arena 200425,Hyderabad,Telangana,Theatre,18592.0,Indoor,22.1,6289.5
+200426,VEN-200426,Gaya Arena 200426,Gaya,Bihar,Stadium,42444.5,Indoor,9.6,5036.0
+200427,VEN-200427,Kolkata Arena 200427,Kolkata,West Bengal,Theatre,64224.0,Indoor,17.2,6289.5
+200428,VEN-200428,Indore Arena 200428,Indore,Madhya Pradesh,Auditorium,61631.0,Outdoor,13.8,6289.5
+200429,VEN-200429,Kolkata Arena 200429,Kolkata,West Bengal,Club,42444.5,Indoor,13.6,6289.5
+200430,VEN-200430,Jaipur Arena 200430,Jaipur,Rajasthan,Open Ground,42444.5,Indoor,7.0,6819.0
+200431,VEN-200431,Hyderabad Arena 200431,Hyderabad,Telangana,Stadium,42444.5,Outdoor,5.3,6124.0
+200432,VEN-200432,Gaya Arena 200432,Gaya,Bihar,Stadium,42444.5,Indoor,15.7,6289.5
+200433,VEN-200433,Ranchi Arena 200433,Ranchi,Jharkhand,Open Ground,42444.5,Indoor,16.4,6289.5
+200434,VEN-200434,Chandigarh Arena 200434,Chandigarh,Chandigarh,Club,42444.5,Indoor,17.5,6289.5
+200435,VEN-200435,Ahmedabad Arena 200435,Ahmedabad,Gujarat,Stadium,42444.5,Outdoor,18.1,6289.5
+200436,VEN-200436,Hyderabad Arena 200436,Hyderabad,Telangana,Theatre,54773.0,Indoor,23.3,10337.0
+200437,VEN-200437,Chennai Arena 200437,Chennai,Tamil Nadu,Convention Center,42444.5,Outdoor,9.4,6289.5
+200438,VEN-200438,Chennai Arena 200438,Chennai,Tamil Nadu,Club,75713.0,Indoor,6.8,6289.5
+200439,VEN-200439,Jaipur Arena 200439,Jaipur,Rajasthan,Club,56653.0,Outdoor,7.6,11099.0
+200440,VEN-200440,Gaya Arena 200440,Gaya,Bihar,Theatre,7883.0,Indoor,17.6,4325.0
+200441,VEN-200441,Gaya Arena 200441,Gaya,Bihar,Open Ground,42444.5,Indoor,20.5,5376.0
+200442,VEN-200442,Jaipur Arena 200442,Jaipur,Rajasthan,Stadium,42444.5,Outdoor,2.8,10993.0
+200443,VEN-200443,Gaya Arena 200443,Gaya,Bihar,Stadium,42444.5,Outdoor,1.5,172.0
+200444,VEN-200444,Gurugram Arena 200444,Gurugram,Haryana,Convention Center,42444.5,Outdoor,16.5,174.0
+200445,VEN-200445,Noida Arena 200445,Noida,Uttar Pradesh,Convention Center,42444.5,Indoor,23.8,6289.5
+200446,VEN-200446,Pune Arena 200446,Pune,Maharashtra,Open Ground,42444.5,Indoor,9.2,6289.5
+200447,VEN-200447,Bhopal Arena 200447,Bhopal,Madhya Pradesh,Convention Center,42444.5,Outdoor,4.6,7866.0
+200448,VEN-200448,Patna Arena 200448,Patna,Bihar,Auditorium,535.0,Outdoor,17.2,6297.0
+200449,VEN-200449,Patna Arena 200449,Patna,Bihar,Theatre,42444.5,Indoor,20.8,10797.0
+200450,VEN-200450,Chennai Arena 200450,Chennai,Tamil Nadu,Auditorium,42444.5,Indoor,0.2,6289.5
+200451,VEN-200451,Kolkata Arena 200451,Kolkata,West Bengal,Auditorium,42444.5,Outdoor,21.4,113.0
+200452,VEN-200452,Indore Arena 200452,Indore,Madhya Pradesh,Convention Center,28889.0,Outdoor,12.8,2039.0
+200453,VEN-200453,Patna Arena 200453,Patna,Bihar,Auditorium,42444.5,Indoor,18.2,11696.0
+200454,VEN-200454,Bhopal Arena 200454,Bhopal,Madhya Pradesh,Open Ground,42444.5,Indoor,3.4,11506.0
+200455,VEN-200455,Pune Arena 200455,Pune,Maharashtra,Theatre,61697.0,Outdoor,15.2,6289.5
+200456,VEN-200456,Chennai Arena 200456,Chennai,Tamil Nadu,Theatre,34246.0,Indoor,1.6,2961.0
+200457,VEN-200457,Chennai Arena 200457,Chennai,Tamil Nadu,Club,42444.5,Indoor,20.1,7549.0
+200458,VEN-200458,Hyderabad Arena 200458,Hyderabad,Telangana,Theatre,42444.5,Indoor,6.8,6289.5
+200459,VEN-200459,Patna Arena 200459,Patna,Bihar,Convention Center,42444.5,Outdoor,20.5,6289.5
+200460,VEN-200460,Jaipur Arena 200460,Jaipur,Rajasthan,Club,42444.5,Indoor,3.2,10241.0
+200461,VEN-200461,Patna Arena 200461,Patna,Bihar,Theatre,35970.0,Indoor,22.1,4743.0
+200462,VEN-200462,Patna Arena 200462,Patna,Bihar,Theatre,50683.0,Outdoor,1.0,4789.0
+200463,VEN-200463,Gurugram Arena 200463,Gurugram,Haryana,Theatre,42444.5,Outdoor,12.1,6289.5
+200464,VEN-200464,Kolkata Arena 200464,Kolkata,West Bengal,Club,42444.5,Indoor,20.0,5581.0
+200465,VEN-200465,Noida Arena 200465,Noida,Uttar Pradesh,Auditorium,42444.5,Indoor,5.8,6289.5
+200466,VEN-200466,Noida Arena 200466,Noida,Uttar Pradesh,Theatre,42444.5,Indoor,22.7,6289.5
+200467,VEN-200467,Noida Arena 200467,Noida,Uttar Pradesh,Auditorium,42444.5,Outdoor,13.4,6289.5
+200468,VEN-200468,Bhopal Arena 200468,Bhopal,Madhya Pradesh,Stadium,47992.0,Outdoor,11.6,2269.0
+200469,VEN-200469,Delhi Arena 200469,Delhi,Delhi,Stadium,69544.0,Indoor,18.1,11677.0
+200470,VEN-200470,Kolkata Arena 200470,Kolkata,West Bengal,Club,42444.5,Indoor,21.9,6277.0
+200471,VEN-200471,Ahmedabad Arena 200471,Ahmedabad,Gujarat,Auditorium,42444.5,Indoor,19.2,8289.0
+200472,VEN-200472,Noida Arena 200472,Noida,Uttar Pradesh,Stadium,9076.0,Outdoor,9.6,2047.0
+200473,VEN-200473,Chennai Arena 200473,Chennai,Tamil Nadu,Theatre,42444.5,Indoor,6.6,9498.0
+200474,VEN-200474,Bhopal Arena 200474,Bhopal,Madhya Pradesh,Club,42444.5,Outdoor,5.2,6289.5
+200475,VEN-200475,Bengaluru Arena 200475,Bengaluru,Karnataka,Theatre,42444.5,Indoor,20.3,6289.5
+200476,VEN-200476,Gurugram Arena 200476,Gurugram,Haryana,Theatre,35652.0,Outdoor,4.3,1322.0
+200477,VEN-200477,Noida Arena 200477,Noida,Uttar Pradesh,Open Ground,42444.5,Indoor,19.9,4283.0
+200478,VEN-200478,Gaya Arena 200478,Gaya,Bihar,Auditorium,42444.5,Indoor,16.8,6289.5
+200479,VEN-200479,Chandigarh Arena 200479,Chandigarh,Chandigarh,Club,42444.5,Outdoor,17.7,5013.0
+200480,VEN-200480,Bengaluru Arena 200480,Bengaluru,Karnataka,Theatre,57388.0,Outdoor,7.8,2227.0
+200481,VEN-200481,Lucknow Arena 200481,Lucknow,Uttar Pradesh,Convention Center,55525.0,Indoor,21.1,6289.5
+200482,VEN-200482,Indore Arena 200482,Indore,Madhya Pradesh,Club,71788.0,Outdoor,15.0,11144.0
+200483,VEN-200483,Ahmedabad Arena 200483,Ahmedabad,Gujarat,Stadium,42444.5,Outdoor,24.1,5970.0
+200484,VEN-200484,Gurugram Arena 200484,Gurugram,Haryana,Auditorium,72711.0,Outdoor,3.9,3493.0
+200485,VEN-200485,Lucknow Arena 200485,Lucknow,Uttar Pradesh,Auditorium,9005.0,Indoor,12.2,6289.5
+200486,VEN-200486,Patna Arena 200486,Patna,Bihar,Convention Center,42444.5,Outdoor,10.7,6289.5
+200487,VEN-200487,Noida Arena 200487,Noida,Uttar Pradesh,Stadium,15933.0,Outdoor,16.7,9162.0
+200488,VEN-200488,Ranchi Arena 200488,Ranchi,Jharkhand,Stadium,76931.0,Indoor,5.0,6289.5
+200489,VEN-200489,Pune Arena 200489,Pune,Maharashtra,Club,14658.0,Outdoor,23.2,9061.0
+200490,VEN-200490,Mumbai Arena 200490,Mumbai,Maharashtra,Open Ground,9752.0,Outdoor,24.6,9809.0
+200491,VEN-200491,Kolkata Arena 200491,Kolkata,West Bengal,Auditorium,3303.0,Indoor,3.7,6289.5
+200492,VEN-200492,Gaya Arena 200492,Gaya,Bihar,Theatre,42444.5,Indoor,8.4,6289.5
+200493,VEN-200493,Ranchi Arena 200493,Ranchi,Jharkhand,Theatre,42444.5,Outdoor,1.2,6289.5
+200494,VEN-200494,Noida Arena 200494,Noida,Uttar Pradesh,Auditorium,10125.0,Outdoor,2.4,6289.5
+200495,VEN-200495,Hyderabad Arena 200495,Hyderabad,Telangana,Club,42444.5,Outdoor,17.3,10381.0
+200496,VEN-200496,Gaya Arena 200496,Gaya,Bihar,Club,42444.5,Indoor,19.7,2462.0
+200497,VEN-200497,Gurugram Arena 200497,Gurugram,Haryana,Open Ground,42444.5,Outdoor,0.8,6289.5
+200498,VEN-200498,Ranchi Arena 200498,Ranchi,Jharkhand,Convention Center,42444.5,Indoor,2.8,6289.5
+200499,VEN-200499,Gurugram Arena 200499,Gurugram,Haryana,Stadium,59423.0,Outdoor,22.6,1037.0
+200500,VEN-200500,Gurugram Arena 200500,Gurugram,Haryana,Club,42444.5,Indoor,0.7,3084.0
